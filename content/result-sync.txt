@@ -1,0 +1,1 @@
+here is the result: First text file, second text file, {flag: "a"}here is the result: First text file, second text file
